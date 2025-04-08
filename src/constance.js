@@ -1,0 +1,1 @@
+export const DB_name="Hair_Salon_Data_Base"

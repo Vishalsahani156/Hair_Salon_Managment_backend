@@ -1,0 +1,32 @@
+{
+  "name": "hair_salon_backend",
+  "version": "1.0.0",
+  "description": "Backend Design by Hair_Salon Mangment ",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon -r dotenv/config  src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishalsahani156/Hair_Salon_Managment.git"
+  },
+  "author": "Vishal sahani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishalsahani156/Hair_Salon_Managment/issues"
+  },
+  "homepage": "https://github.com/Vishalsahani156/Hair_Salon_Managment#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cloudinary": "^2.6.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.12.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.9"
+  }
+}
