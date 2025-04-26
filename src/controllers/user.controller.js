@@ -78,7 +78,7 @@ const loginUser = asyncHandler(async (req, res) =>{
         throw new ApiError(400, "phone number or email is required")
     }
     
-    // Here is an alternative of above code based on logic discussed 
+    
     // if (!(username || email)) {
     //     throw new ApiError(400, "username or email is required")
         

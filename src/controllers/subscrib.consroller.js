@@ -8,7 +8,7 @@ const Subscrib=asyncHandler(async(req,res)=>{
 
     }
     const exitUsers=await User.findOne({
-        email
+        
     })
   
 })
