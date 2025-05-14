@@ -72,7 +72,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/hair-salon-management-backend.git
+git clone https://github.com/Vishalsahani156/Hair_Salon_Managment_backend/tree/master
 cd hair-salon-management-backend
 Install dependencies:
 
